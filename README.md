@@ -7,9 +7,7 @@
 <br><br><br><br><br><br><br><br><br><br><br>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
-
-{% include JYP.html id="DUMQU8Wy0d0" %}  
+{% include JYP.html id="DUMQU8Wy0d0" %}
 
 
 # 내일 봬요
