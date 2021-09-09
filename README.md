@@ -7,7 +7,7 @@
 <br><br><br><br><br><br><br><br><br><br><br>
 
 
-{% include JYP.html id="DUMQU8Wy0d0" %}
+{% include JYP.html id="https://www.youtube.com/watch?v=DUMQU8Wy0d0" %}
 
 
 # 내일 봬요
