@@ -1,7 +1,8 @@
 # hahbr
 
 
-[![JYP](https://img.youtube.com/vi/DUMQU8Wy0d0/0.jpg)](https://www.youtube.com/watch?v=DUMQU8Wy0d0)
+[![JYP](https://img.youtube.com/vi/DUMQU8Wy0d0/0.jpg)](https://www.youtube.com/watch?v=DUMQU8Wy0d0)  
+###### ↑↑↑↑↑↑클릭!! 클릭!!↑↑↑↑↑
 
 
 
