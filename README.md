@@ -19,6 +19,7 @@ __서하님 띄어쓰기 필수에요!!__
 
 ![ㅎㅎ](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAxMTdfMTcw%2FMDAxNjEwODkxMDQ0NjU2.j4jwki5HypOaHzk2-5_b0yLlMBBToKL184UA2iyP5Uwg.BwZMHc6X9Ajq-6dzMHHNZTRj0fuG-tI24OFuUcj8w_Ug.JPEG.sy4256%2Foutput_361991143.jpg&type=sc960_832)
 
+![컴공짤](https://cdn.clien.net/web/api/file/F03/11193449/82140da86eecc4.jpg?w=500&h=1000)
 
 |조원|이름|
 |--|--|
